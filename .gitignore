@@ -130,3 +130,7 @@ dmypy.json
 
 # Ignore local PyCharm files
 .idea
+
+# Ignore local data files
+data/*
+hyperopt_logs
