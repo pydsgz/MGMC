@@ -62,7 +62,7 @@ loaded_pickle_obj[0] # this is a list with 10 elements
 ### Citation
 If you use this code, please cite:
 ```
-@misc{vivar2020simultaneous,
+@misc{MGMC_2020,
     title={Simultaneous imputation and disease classification in incomplete medical datasets using Multigraph Geometric Matrix Completion (MGMC)},
     author={Gerome Vivar and Anees Kazi and Hendrik Burwinkel and Andreas Zwergal and Nassir Navab and Seyed-Ahmad Ahmadi},
     year={2020},
